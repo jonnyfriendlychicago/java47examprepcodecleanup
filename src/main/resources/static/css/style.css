@@ -1,0 +1,107 @@
+/* @charset "UTF-8"; */
+* {
+	font-family: "Roboto", sans-serif; 
+}
+
+
+h1 {
+	color:rgb(255, 255, 255);
+	font-family: "Roboto", sans-serif; 
+}
+
+h2 {
+	color:rgb(0, 0, 0); 
+}
+
+
+.footerText {
+	color:rgb(255, 255, 255); 
+	font-size: 1rem; 
+}
+.blueStuff {
+	color: blue; 
+}
+
+.greenStuff {
+	color: green; 
+}
+
+.errorText {
+	color: red; 
+}
+/* .px-2 {
+  padding-left: ($spacer * .5) !important;
+  padding-right: ($spacer * .5) !important;
+} */
+
+.cardPaddingJonLikes {
+	padding: 3rem; 
+}
+
+#header {
+	/* background-color: rgb(25, 66, 133);  */
+	/* background-color: #7D9768; */  
+	background-color: #748A8B; 
+	 
+	  
+}
+
+#header-top {
+	display: flex;
+	justify-content: space-between;
+}
+
+#pageHeader {
+	/* background-color: lightblue; */
+	background-color: #7E8B74; 
+	
+}
+#footer {
+	display: flex; 
+	justify-content: center;
+	align-items: center;  
+	background-color: rgb(77, 77, 77); 
+	position: fixed;
+  	bottom: 0;
+  	height: 3rem; 
+
+}
+
+#registerLogin2 {
+	display: flex; 
+	justify-content: center;
+}
+
+.buttonArrange1 {
+	display: flex; 
+	justify-content: flex-start;
+	/* justify-content: space-around; */
+}
+
+/* pre {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  margin: 1em 0;
+  font-family: "Roboto", sans-serif; 
+} */
+
+.textAreaReadOut {
+	font-family: "Roboto", sans-serif;
+	white-space: pre-wrap;
+}
+
+/* .button {
+	margin: 0.5rem; 
+} */
+
+#main {
+	width: 50rem;
+	padding: 1rem; 
+}
+
+
+#about {
+	width: 18rem;
+	padding: 1rem; 
+}
